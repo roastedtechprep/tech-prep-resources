@@ -26,6 +26,13 @@ To add a new file please create a new Pull Request on the repository. One link p
 
 ## Databases & Data Modeling
 
+# Competitive Programming
+* [LeetCode](https://leetcode.com/)
+
+# Interview Preparation
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+* [Bllnd 75 - Curated List of Top 75 LeetCode Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+
 # Recommended Books
 * [Cracking the Coding Interview by Gayle Laakmann McDowell](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
 * [Head First Design Patterns by Eric Freeman](https://drive.google.com/file/d/1U_9ZtNsO3qGLD7YwM94dp_cFjio33QjK/preview)
