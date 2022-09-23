@@ -10,14 +10,28 @@ To add a new file please create a new Pull Request on the repository. One link p
 ## Free
 ## Paid
 * [Grokking Dynamic Programming Patterns for Coding Interviews](https://designgurus.org/course/grokking-dynamic-programming)
+* [System Design Interview course by Alex Xu](https://bytebytego.com/)
 
 # Data Structures
 
 # OOP - Object Oriented Programming
+* [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
 
 # Design Pattern
 
 # Software Architecture
+
+## System Design
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+## API Design & Best Practices
+* [RESTful API Best Practices by Microsoft](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [Web API Implementation by Microsoft](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-implementation)
+* [REST API Guidelines by Microsoft](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+
+### API Use Cases
+* [Stripe API Documentation](https://stripe.com/docs/api)
+* [Twitter API V2 Documentation](https://developer.twitter.com/en/docs/api-reference-index)
 
 ## Clean Code
 
@@ -31,9 +45,12 @@ To add a new file please create a new Pull Request on the repository. One link p
 
 # Youtube Videos
 * [Data Structures and Algorithms in Java full course by Dinesh Varyani](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+* [How to Crack the Coding Interview by Dinesh Varyani](https://www.youtube.com/watch?v=cM4o7_UY9vM)
+* [Behavioral Interview with Jeff H Sipe, Interview / Negotiation Coach ](https://www.youtube.com/c/JeffHSipe)
 
 # Competitive Programming
 * [LeetCode](https://leetcode.com/)
+* [Top/Important 500 leetcode questions by Dinesh Varyani](https://docs.google.com/spreadsheets/d/1pnI8HmSMPcfwrCCu7wYETCXaKDig4VucZDpcjVRuYrE/edit#gid=237636947)
 
 # Interview Preparation
 ## Free
@@ -45,6 +62,7 @@ To add a new file please create a new Pull Request on the repository. One link p
 ## Paid
 * [Grokking the System Design and Coding Interview by Design Gurus](https://designgurus.org/)
 * [Grokking the Coding Interview: Patterns for Coding Questions](https://designgurus.org/course/grokking-the-coding-interview)
+* [160 Coding Interview Questions by AlgoExpert](https://www.algoexpert.io/questions)
 
 # Recommended Books
 * [Cracking the Coding Interview by Gayle Laakmann McDowell](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
@@ -52,3 +70,5 @@ To add a new file please create a new Pull Request on the repository. One link p
 * [Clean Architecture A Craftsman's Guide to Software Structure and Design by Robet C. Martin (Uncle Bob)](https://github.com/sdcuike/Clean-Code-Collection-Books/blob/master/Clean%20Architecture%20A%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
 * [Clean Code- A Handbook of Agile Software Craftsmanship by Robet C. Martin (Uncle Bob)](https://github.com/muthukumarse/books-1/blob/master/Clean%20Code-%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship.pdf)
 * [Design Patterns by Gang of Four (GOF)](https://github.com/drhamann/books/blob/master/Design%20Patterns%20-%20Gamma%2C%20GOF.pdf)
+* [System Design Interview by Alex Xu](https://github.com/riti2409/System_design/blob/main/System%20Design%20Inteview%20by%20Alex%20xu.pdf)
+* [Books Catalouge](https://github.com/akhilub/System-Design)
