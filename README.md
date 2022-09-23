@@ -23,6 +23,17 @@ To add a new file please create a new Pull Request on the repository. One link p
 
 ## System Design
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [Uber Time Series DB - AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine](https://www.uber.com/en-BD/blog/aresdb/)
+* [Airbnb's Idempotency - Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+* [Facebook's Cluster Management - Efficient, reliable cluster management at scale with Twine](https://engineering.fb.com/2019/06/06/data-center-engineering/twine/)
+* [Autopilot: Auto Scaling at Google](https://dl.acm.org/doi/pdf/10.1145/3342195.3387524)
+* [Netflix Scalable Workflow Orchestration](https://conductor.netflix.com/)
+* [Spotify's OpenSource workflow management](https://github.com/spotify/luigi)
+* [Facebook's Live Broadcasting](https://engineering.fb.com/2015/12/03/ios/under-the-hood-broadcasting-live-video-to-millions/)
+* [LinkedIn's Real Time Data Streaming](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
+* [AWS: Amazaon S3 performance hack](https://aws.amazon.com/blogs/aws/amazon-s3-performance-tips-tricks-seattle-hiring-event/)
+* [AWS: Amazon S3 Object Expiration](https://aws.amazon.com/blogs/aws/amazon-s3-object-expiration/)
+* [Circuit Breaker Algorithm by Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
 
 ## API Design & Best Practices
 * [RESTful API Best Practices by Microsoft](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
