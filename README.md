@@ -7,6 +7,9 @@ To add a new file please create a new Pull Request on the repository. One link p
 ---
 
 # Algorithms
+## Free
+## Paid
+* [Grokking Dynamic Programming Patterns for Coding Interviews](https://designgurus.org/course/grokking-dynamic-programming)
 
 # Data Structures
 
@@ -26,12 +29,22 @@ To add a new file please create a new Pull Request on the repository. One link p
 
 ## Databases & Data Modeling
 
+# Youtube Videos
+* [Data Structures and Algorithms in Java full course by Dinesh Varyani](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+
 # Competitive Programming
 * [LeetCode](https://leetcode.com/)
 
 # Interview Preparation
+## Free
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 * [Bllnd 75 - Curated List of Top 75 LeetCode Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+* [Don't overprep for your #codinginterviews by Arslan Ahmad](https://www.linkedin.com/posts/arslanahmad_codinginterviews-technicalinterview-tech-activity-6978143978399440896-nWCl?utm_source=share&utm_medium=member_desktop)
+* [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
+
+## Paid
+* [Grokking the System Design and Coding Interview by Design Gurus](https://designgurus.org/)
+* [Grokking the Coding Interview: Patterns for Coding Questions](https://designgurus.org/course/grokking-the-coding-interview)
 
 # Recommended Books
 * [Cracking the Coding Interview by Gayle Laakmann McDowell](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
