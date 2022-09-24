@@ -6,19 +6,30 @@ To add a new file please create a new Pull Request on the repository. One link p
 
 ---
 
-# Algorithms
-## Free
-## Paid
+# Algorithms & Data Structures
+* [DSA Study Guide](https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide)
+* [Awesome CS Course - A curated list of top universities CS Courses](https://github.com/prakhar1989/awesome-courses#programming-languages--compilers)
+* [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
+* [An awesome list for Competitive Programming](https://codeforces.com/blog/entry/23054)
+* [CodeForces: All good tutorials on CP](https://codeforces.com/blog/entry/57282)
 * [Grokking Dynamic Programming Patterns for Coding Interviews](https://designgurus.org/course/grokking-dynamic-programming)
 * [System Design Interview course by Alex Xu](https://bytebytego.com/)
-
-# Data Structures
+* [Everything about Dynamic Programming](https://codeforces.com/blog/entry/43256)
+* [GeekForGeeks Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
+* [GeekForGeeks Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm)
+* [Dynamic Programming Pattern by Leetcode](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+* [Dynamic Programming for Beginners](https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)
+* [Dynamic Programming Marathon for 7months](https://leetcode.com/discuss/study-guide/1000929/Solved-all-dynamic-programming-(dp)-problems-in-7-months.)
+* [Binary Search Template](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+* [Top/Important 500 leetcode questions by Dinesh Varyani](https://docs.google.com/spreadsheets/d/1pnI8HmSMPcfwrCCu7wYETCXaKDig4VucZDpcjVRuYrE/edit#gid=237636947)
 
 # OOP - Object Oriented Programming
 * [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
 
 # Design Pattern
 * [Scalable System Design Pattern](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
+* [Low Level Design Patterns implemented using Java](https://github.com/iluwatar/java-design-patterns)
+* [Design Pattern Simplified](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 # Software Architecture
 
@@ -26,6 +37,7 @@ To add a new file please create a new Pull Request on the repository. One link p
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [LinkedIn's Real Time Data Streaming](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
 * [Zerodha - India's Largest Stock Brocker's System Architecture](https://zerodha.tech/blog/hello-world/)
+* [Low-Level System Design Primer](https://github.com/prasadgujar/low-level-design-primer)
 
 ## Cluster & Workflow Management
 * [Facebook's Cluster Management - Efficient, reliable cluster management at scale with Twine](https://engineering.fb.com/2019/06/06/data-center-engineering/twine/)
@@ -100,10 +112,10 @@ To add a new file please create a new Pull Request on the repository. One link p
 * [Data Structures and Algorithms in Java full course by Dinesh Varyani](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
 * [How to Crack the Coding Interview by Dinesh Varyani](https://www.youtube.com/watch?v=cM4o7_UY9vM)
 * [Behavioral Interview with Jeff H Sipe, Interview / Negotiation Coach ](https://www.youtube.com/c/JeffHSipe)
-
-# Competitive Programming
-* [LeetCode](https://leetcode.com/)
-* [Top/Important 500 leetcode questions by Dinesh Varyani](https://docs.google.com/spreadsheets/d/1pnI8HmSMPcfwrCCu7wYETCXaKDig4VucZDpcjVRuYrE/edit#gid=237636947)
+* [Intro to Data Structure by William Fiset (Google Engineer)](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1744s)
+* [Intro to Algorithms by MIT 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+* [DSA with Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+* [DS with William Fiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 
 # Interview Preparation
 ## Free
@@ -111,11 +123,16 @@ To add a new file please create a new Pull Request on the repository. One link p
 * [Bllnd 75 - Curated List of Top 75 LeetCode Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 * [Don't overprep for your #codinginterviews by Arslan Ahmad](https://www.linkedin.com/posts/arslanahmad_codinginterviews-technicalinterview-tech-activity-6978143978399440896-nWCl?utm_source=share&utm_medium=member_desktop)
 * [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
+* [List of SDE Interview Questions separted by Companies](https://github.com/twowaits/SDE-Interview-Questions)
+* [FAANG Interview Questions](https://github.com/neerazz/FAANG)
+* [GeekForGeeks Company Interview Corner](https://www.geeksforgeeks.org/company-interview-corner/?ref=ghm)
+* [Interview Questions Leetcode Forum](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=)
 
 ## Paid
 * [Grokking the System Design and Coding Interview by Design Gurus](https://designgurus.org/)
 * [Grokking the Coding Interview: Patterns for Coding Questions](https://designgurus.org/course/grokking-the-coding-interview)
 * [160 Coding Interview Questions by AlgoExpert](https://www.algoexpert.io/questions)
+* [Interview Bit](https://www.interviewbit.com/courses/programming/)
 
 # Recommended Books
 * [Cracking the Coding Interview by Gayle Laakmann McDowell](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
